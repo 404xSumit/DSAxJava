@@ -19,7 +19,7 @@ Here I document my progress in Java programming, Object-Oriented Programming, an
 ## 🛡️ Introduction to Programming with Java
 
 - [✔️] Variables & Data Types
-- [ ] Operators
+- [✔️] Operators
 - [ ] Conditional Statements
 - [ ] Loops (Flow Control)
 - [ ] Patterns
