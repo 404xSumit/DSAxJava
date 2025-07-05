@@ -52,16 +52,16 @@ There are mainly 3 types of loops in java :-
 
 //Example :- Do while
 
-public class Loop {
+// public class Loop {
 
-    public static void main(String[] args){
-        int i = 1;
-        do{
-            System.out.println("Hello this will defintely run ");
-        }
-        while (i<=5); {
-            System.out.print("Hello "+i);
-            i++;
-        }
-    }
-}
+//     public static void main(String[] args){
+//         int i = 1;
+//         do{
+//             System.out.println("Hello this will defintely run ");
+//         }
+//         while (i<5); {
+//             System.out.print("Hello "+i);
+//             i++;
+//         }
+//     }
+// }

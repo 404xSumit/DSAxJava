@@ -20,8 +20,8 @@ Here I document my progress in Java programming, Object-Oriented Programming, an
 
 - [✔️] Variables & Data Types
 - [✔️] Operators
-- [ ] Conditional Statements
-- [ ] Loops (Flow Control)
+- [✔️] Conditional Statements
+- [✔️] Loops (Flow Control)
 - [ ] Patterns
 - [ ] Functions & Methods
 - [ ] Strings
