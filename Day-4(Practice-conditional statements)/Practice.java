@@ -60,41 +60,25 @@
 
 // 4-> Take the input as a length and breadth and find the area is greeater or not 
 
-// import java.util.Scanner;
-
-// public class Practice {
-
-//     public static void main(String[] args){
-//         Scanner equal = new Scanner(System.in);
-//         System.out.print("Enter the lenght:- ");
-//         int l = equal.nextInt();
-//         System.out.print("Enter the width:- ");
-//         int w = equal.nextInt();
-//         int p = 2*(l+w);
-//         int a = (l*w);
-//         if (p > a){
-//             System.out.print("The parameter is greater then the area " + p);
-//         }else if (p < a){
-//             System.out.print("The area is greater then the parameter " + a);
-//         }else{
-//             System.out.print("The parameter and area both are equal " + p);
-//         }equal.close();
-//     }
-// }
-
-// 5-> Check if the number is 3 digit or not
-
 import java.util.Scanner;
-public static void main (String[] args){
-    Scanner number = new Scanner(System.in);
-    System.out.print("Enter the number:- ");
-    int num = number.nextLine();
-    int count = 0
-    while( num > 0){
-        if (num % 10){
-            int rem = num %10;
-            count++;
-        }
-        num = num / 10 ;
+
+public class Practice {
+
+    public static void main(String[] args){
+        Scanner equal = new Scanner(System.in);
+        System.out.print("Enter the lenght:- ");
+        int l = equal.nextInt();
+        System.out.print("Enter the width:- ");
+        int w = equal.nextInt();
+        int p = 2*(l+w);
+        int a = (l*w);
+        if (p > a){
+            System.out.print("The parameter is greater then the area " + p);
+        }else if (p < a){
+            System.out.print("The area is greater then the parameter " + a);
+        }else{
+            System.out.print("The parameter and area both are equal " + p);
+        }equal.close();
     }
 }
+
